@@ -3,7 +3,7 @@
 Here's the table of contents. Just keep in mind all of the contents will be written in English, with some pro terms being translated into Simplified Chinese.
 
 1. TOC
-{：toc}
+{:toc}
 
 ## Render Pipelines 渲染管线
 
