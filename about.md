@@ -1,4 +1,12 @@
 # About
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+## Tony Lingheng Tao
+**Bachelor of Arts** in Architecture + Additional Major in Computer Science @ Carnegie Mellon University *Class of 2023*
 
+**Master of Entertainment Technology** @ Carnegie Mellon University Entertainment Technology Center *Class of 2025*
+
+Personal Website: https://www.taotamago.com
+
+Technical Blogs: https://lockbrains.github.io
+
+Emails: lockbrains@gmail.com or linghent@andrew.cmu.edu
