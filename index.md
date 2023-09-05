@@ -8,8 +8,7 @@ Here are the notes I am updating and recording.
 
 以下为我目前正在更新的笔记。
 
-1. [Computer Graphics Basics 计算机图形学八股文](https://lockbrains.github.io/2023/04/07/FirstPost.html)
-2. To Be Updated.
+1. To Be Updated.
 
 The following are the newest updated individual notes. If you want to read some new posts, you can probably take a look at these.
 
