@@ -1,28 +1,15 @@
-<!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
-
+<!doctype html>
+<html>
   <head>
-    <!-- MathJax -->
-    <script type="text/javascript"
-      src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+
+    <script type="text/javascript" id="MathJax-script" async
+      src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
     </script>
-  </head>
-  {%- include head.html -%}
-
-  <body>
-
-     
     
-    {%- include header.html -%}
-
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </main>
-
-    {%- include footer.html -%}
-
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+  </head>
+  <body>
+    {{ content }}
   </body>
-
 </html>
