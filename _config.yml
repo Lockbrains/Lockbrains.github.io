@@ -23,7 +23,10 @@ google_analytics:
 # Everything below here can be ignored, unless you want to change the theme entirely
 theme: minima
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-octicons # add this line to the plugins list if you already have one
 
 titles_from_headings:
   enabled:     true
@@ -33,7 +36,7 @@ titles_from_headings:
 highlighter: rouge
 markdown: kramdown
 kramdown:
-  math_engine: MathJax
+  math_engine: katex
   input: GFM
   auto_ids: true
   hard_wrap: false
